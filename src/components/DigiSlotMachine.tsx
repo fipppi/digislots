@@ -208,8 +208,6 @@ export default function DigiSlotMachine() {
                 {omittedDigimon.length > 0 && <p className='text-success'>Omitting the following digimon from results: {omittedDigimon.join(', ')}</p>}
             </>}
             <InfoCard body>
-                <h2>Why?</h2>
-                <p>I wanted to play through Digimon World 1, but it's an infamously challenging game which doesn't hold your hand. In a lot of ways, this is what makes the game so special, but in the case of digivolution, it can be exhausting and time-consuming getting the same awful digimon.</p>
                 <h2>Digivolution Criteria</h2>
                 <ul>
                     <li>Digivolution outcomes are affected by four different criteria: Stats, Weight, Care Mistakes, and Bonus Criteria.</li>

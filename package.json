@@ -2,6 +2,7 @@
   "name": "digi-random-evolution-calc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jackphilippi.com.au/digislots",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
