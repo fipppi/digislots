@@ -24,6 +24,7 @@
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
+    "move": "rm -rf ../jackphilippi.github.io/digislots/* && cp -R build/* ../jackphilippi.github.io/digislots/",
     "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts --openssl-legacy-provider eject"
   },
